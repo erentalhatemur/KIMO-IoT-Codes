@@ -13,7 +13,8 @@ ve sunduğum çözümleri anlatacağım.
 -Ana bilgisayar tarafından ürün kullanıcısına mail iletisi ile harekete dair haber verilir aynı anda kapıda bulunan gizli kamera ile elde ettiği görüntüleri Dropbox bulut depolama klasöründe depolar. Gönderdiği mail iletisinin içeriğinde bu klasöre ulaşabilmek için bir bağlantı bulunur ve kullanıcı bu görüntülere internet bağlantısına sahip olduğu her yerde ulaşabilir.
 
 ÇALIŞMA PRENSİBİNİN 3D GÖRÜNTÜSÜ
-![Ekran görüntüsü 2024-06-30 111255](https://github.com/erentalhatemur/KIMO-IoT-Codes/assets/165311868/01348646-ccd7-4d8a-89d1-8014d867088a)
+![Ekran görüntüsü 2024-06-30 111255](https://github.com/erentalhatemur/KIMO-IoT-Codes/assets/165311868/056651c7-1a6f-44e8-90a8-fef1ac8931e3)
+
 
 Gönderilen e-mail'den bir örnek
 
