@@ -11,8 +11,10 @@ ve sunduğum çözümleri anlatacağım.
 (ANA BİLGİSAYAR:Raspberry Pi,SINIR:Ultrasonik Mesafe Sensörü uyarılma sınırı)
 - Kapının dış kısmında bulunan korumalı kalıp içerisinde mesafe sensörü bulunur. Mesafe sensörü sürekli ölçüm yaparken ürün kullanıcısının belirlediği sınır içerisinde bir hareket algıladığında ana bilgisayara bildirim gönderir
 -Ana bilgisayar tarafından ürün kullanıcısına mail iletisi ile harekete dair haber verilir aynı anda kapıda bulunan gizli kamera ile elde ettiği görüntüleri Dropbox bulut depolama klasöründe depolar. Gönderdiği mail iletisinin içeriğinde bu klasöre ulaşabilmek için bir bağlantı bulunur ve kullanıcı bu görüntülere internet bağlantısına sahip olduğu her yerde ulaşabilir.
+
 ÇALIŞMA PRENSİBİNİN 3D GÖRÜNTÜSÜ
-![Ekran görüntüsü 2024-06-30 111255](https://github.com/erentalhatemur/KIMO-IoT-Codes/assets/165311868/adce856b-25cf-4481-9da1-5af5cb8e12a8)
+![Ekran görüntüsü 2024-06-30 111255](https://github.com/erentalhatemur/KIMO-IoT-Codes/assets/165311868/01348646-ccd7-4d8a-89d1-8014d867088a)
+
 Gönderilen e-mail'den bir örnek
 
 
