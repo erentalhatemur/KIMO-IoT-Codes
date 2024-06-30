@@ -17,7 +17,9 @@ ve sunduğum çözümleri anlatacağım.
 
 
 Gönderilen e-mail'den bir örnek
+![image](https://github.com/erentalhatemur/KIMO-IoT-Codes/assets/165311868/1f942fc4-80d0-463a-b669-c41f7b950c02)
 
+Alınan görüntülere örnekler
 
 
 
