@@ -113,11 +113,11 @@ gonderen = "kimoguvenlik00@gmail.com"
 # TR: Google Hesap Ayarları > Güvenlik > Uygulama Şifreleri bölümünden alınır.
 # EN: Gmail "App Password" (Not your normal password!)
 # EN: Get this from Google Account Settings > Security > App Passwords.
-gmail_sifresi = "tgwhqcpeftaytlez"  # <-- BU ŞİFREYİ DEĞİİŞTİRİN! / CHANGE THIS PASSWORD!
+gmail_sifresi = "tgwhqcpeftaytlez"  # <-- BU ŞİFREYİ DEĞİŞTİRİN! / CHANGE THIS PASSWORD!
 
 # TR: Bildirimlerin gideceği e-posta adresi
 # EN: The email address that will receive the notifications
-alici = "erentalha24@gmail.com"     # <-- Kendi alıcı adresinizle değiştirin / Change to your own recipient address
+alici = "homeuser@gmail.com"     # <-- Kendi alıcı adresinizle değiştirin / Change to your own recipient address
 
 # ...
 
